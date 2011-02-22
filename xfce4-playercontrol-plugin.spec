@@ -8,6 +8,7 @@ Group:		Graphical desktop/Xfce
 URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-xmms-plugin
 Source0:	http://www.bilimfeneri.gen.tr/ilgar/%{name}-%{version}.tar.bz2
 BuildRequires:	xfce4-panel-devel >= 4.4.2
+BuildRequires:	libxfcegui4-devel
 #BuildRequires:	libmpd-devel
 BuildRequires:	audacious-devel
 BuildRequires:	perl(XML::Parser)
