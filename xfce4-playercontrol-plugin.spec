@@ -5,7 +5,7 @@ Version:	0.3.0
 Release:	5
 License:	BSD
 Group:		Graphical desktop/Xfce
-URL:		http://goodies.xfce.org/projects/panel-plugins/xfce4-xmms-plugin
+URL:		https://goodies.xfce.org/projects/panel-plugins/xfce4-xmms-plugin
 Source0:	http://www.bilimfeneri.gen.tr/ilgar/%{name}-%{version}.tar.bz2
 BuildRequires:	xfce4-panel-devel >= 4.4.2
 BuildRequires:	libmpd-devel
